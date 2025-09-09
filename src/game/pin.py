@@ -1,0 +1,3 @@
+
+class Pin:
+    number = None
